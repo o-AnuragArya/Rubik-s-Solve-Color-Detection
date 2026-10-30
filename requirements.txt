@@ -1,0 +1,4 @@
+opencv-python>=5.0.0.93
+numpy>=2.5.3
+kociemba>=1.2.1
+matplotlib>=3.8.2
